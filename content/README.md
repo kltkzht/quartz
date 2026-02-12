@@ -10,6 +10,7 @@ So, these notes are merely a starting point and a template. I tried to adapt the
 
 There are many files with definitions, explanations, and illustrations, but I advise you to always start with the canvases:
 [[Biologie.canvas]]  
+[[Biologie canvas]]
 [[Chemie.canvas]]  
 [[Physik.canvas]]  
 [[Mathematik.canvas]]
