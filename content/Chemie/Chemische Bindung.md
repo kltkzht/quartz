@@ -9,3 +9,5 @@ Bei [[Chemie/ionische Bindung]] überträgt ein Metallatom (niedrige [[Chemie/El
 Atome mit [[Chemie/metallische Bindung]] geben Valenzelektronen in ein "Elektronengas" ab, das delokalisiert die positiv geladenen Kationen umfließt und durch elektrostatische Anziehung bindet.
 
 [[Chemie/Van-der-Waals-Kräfte]], [[Chemie/Dipol-Dipol-Wechselwirkungen]] und [[Chemie/Wasserstoffbrücken]] sind schwache zwischenmolekulare Kräfte, die Siedepunkte und Löslichkeiten beeinflussen, indem sie temporäre oder permanente Dipole ausrichten und Anziehung erzeugen.
+
+[[Chemie/Chemische Bindung Fragen]]

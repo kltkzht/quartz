@@ -6,3 +6,5 @@ $$v(t) = v_0 + a t; s(t) = s_0 + v_0 t + \frac{1}{2} a t^2$$
  – erklärt Freien Fall, wo a=ga=g Geschwindigkeit linear steigert.
 
 Einfache gradlinige Bewegungen brauchen keine Nettokraft: Gleichförmig (a=0) hält Trägheit aufrecht, beschleunigt entsteht durch konstante Kraft. Krummlinige Bewegungen wie Kreisbewegung fordern extra seitwärts $$a_r = \frac{v^2}{r}$$zur Mitte: Spannung zieht, tangentiale at ändert Tempo – folgt aus gleichem Prinzip, bindet zu Drehmoment und Schwingungen, wo a=−ω^2y oszilliert.
+
+[[Anderes/Kinematik Flashcards]]

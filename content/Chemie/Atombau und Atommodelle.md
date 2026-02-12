@@ -22,3 +22,5 @@ Spektrallinien sind charakteristische Linien im elektromagnetischen Spektrum, di
 
 [[Chemie/Spektrallinien]] ermöglichen die Identifikation chemischer Elemente in Proben durch Zuordnung charakteristischer Wellenlängen. 
 Diese Methode erfordert nur minimale Probenmengen.​
+
+[[Chemie/Atombau und Atommodelle Fragen]]

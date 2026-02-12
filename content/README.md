@@ -8,12 +8,11 @@ So, these notes are merely a starting point and a template. I tried to adapt the
 
 # **Where to start?**
 
-There are many files with definitions, explanations, and illustrations, but I advise you to always start with the canvases:
-[[Biologie.canvas]]  
-[[Biologie canvas]]
-[[Chemie.canvas]]  
-[[Physik.canvas]]  
-[[Mathematik.canvas]]
+There are many files with definitions, explanations, and illustrations, but I advise you to always start with the canvases/subject-specific general files:
+[[Biologie.canvas]] / [[Biologie]]
+[[Chemie.canvas]] / [[Chemie]]
+[[Physik.canvas]] / [[Physik]]
+[[Mathematik.canvas]] / [[Mathematik]]
 All of the files can be traced to what you can see on the canvas for the respective subject.
 # **How is it built?**
 
