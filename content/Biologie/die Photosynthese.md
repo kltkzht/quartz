@@ -1,7 +1,7 @@
 Photosynthese: Prozess, bei dem aus CO₂ und H₂O unter Energiezufuhr organische Moleküle gebildet werden.
 Autotrophie: Fähigkeit, organische Stoffe aus anorganischen Ausgangsstoffen aufzubauen.
 
-Die Lichtreaktion wandelt Lichtenergie in chemische Energie in Form von ATP und NADPH um.
+Die Lichtreaktion wandelt Lichtenergie in chemische Energie in Form von [[Biologie/ATP]] und NADPH um.
 Wasser dient als Elektronenquelle und wird dabei oxidiert.
 Die Lichtreaktion erzeugt den Sauerstoff der Erdatmosphäre.
 
@@ -10,7 +10,7 @@ Lichtreaktion: Lichtabhängiger Teil der Photosynthese in den Thylakoidmembranen
 Photolyse des Wassers: Lichtinduzierte Spaltung von H₂O.
 
 Photosysteme sind funktionelle Einheiten aus Pigmenten und Proteinen.
-Zwei Photosysteme ermöglichen einen gerichteten Elektronenfluss.
+Zwei Photosysteme ermöglichen einen gerichteten Elektronenfluss durch [[Biologie/Energieübertrager]]
 Die Kombination beider Photosysteme erlaubt hohe Redoxleistung.
 
 

@@ -2,7 +2,8 @@
 
 Die Zellatmung ist ein Stoffwechselvorgang, bei dem durch Oxidation organischer Stoffe Energie gewonnen wird. 
 
-Eine Glycose - 32 ATP
+Eine Glycose - 32 [[Biologie/ATP]]
+[[Biologie/Energieübertrager]]
 
 [[Biologie/die Glykolyse]] -> [[Biologie/Pyruvat oxidation]] -> [[Biologie/der Citrat-Zyklus]] -> [[Biologie/die Atmungskette]]
 
