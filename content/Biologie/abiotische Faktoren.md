@@ -1,0 +1,1 @@
+legen den grundlegenden Rahmen fest, innerhalb dessen Leben möglich ist. Diese Faktoren bestimmen, welche Organismen in einem bestimmten Lebensraum existieren können und welche physiologischen Grenzen sie besitzen

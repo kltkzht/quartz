@@ -1,0 +1,1 @@
+Leistung P=tW oder P=F⃗⋅v⃗ gibt die Arbeitsrate an, Einheit Watt (W).​

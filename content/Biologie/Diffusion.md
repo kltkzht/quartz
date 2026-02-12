@@ -1,0 +1,1 @@
+die spontane und vollständige, irreversible Durchmischung von Teilchen in miteinander Kontakt stehenden Stoffen. Der Stoff diffundiert entlang seines Konzentrationsfälles bis zum thermodynamischen Gleichgewicht. Keine Arbeit muss errichtet werden

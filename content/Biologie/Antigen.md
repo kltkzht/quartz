@@ -1,0 +1,2 @@
+körperfremde Struktur
+wird vom Immunsystem erkannt

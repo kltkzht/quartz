@@ -1,0 +1,6 @@
+Cyanobakterien produzieren Sauerstoff
+Atmosphäre wird oxidierend
+
+Massenaussterben anaerober Organismen
+Entstehung der aeroben Zellatmung
+Bildung der Ozonschicht

@@ -1,0 +1,1 @@
+Amplitude A: Maximalwert der Auslenkung von der Ruhelage, konstant bei ungedämpften Schwingungen.​

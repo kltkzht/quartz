@@ -1,0 +1,5 @@
+Kein Zellkern
+Anaerober Stoffwechsel
+Einfache Organisation
+
+Extrem anpassungsfähig

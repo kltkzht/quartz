@@ -1,0 +1,1 @@
+(f(g(x)))′ = f′(g(x))·g′(x) Eine innere Änderung löst eine äußere Änderung aus – daher multiplizieren sich die Änderungsraten.

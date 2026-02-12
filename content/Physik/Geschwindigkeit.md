@@ -1,0 +1,1 @@
+Geschwindigkeit v⃗=Δs⃗/Δt misst, wie schnell und in welche Richtung ein Körper seinen Ort ändert – vektoriell, weil Bewegung gerichtet ist

@@ -1,0 +1,2 @@
+Netzwerk aus Membranstapeln und röhren. Ort des Membranbiosynthese sowie anderer synthetischer und metabolischer Vorgänge; raue und glatte Bereiche
+Glattes ER - Synthese von Lipiden, Kohlenhydratstoffwechsel, Detoxifizierung. z. B Steroidhormone

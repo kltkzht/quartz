@@ -1,0 +1,1 @@
+Orbitale werden der Reihenfolge nach gefüllt (1s → 2s → 2p → 3s → ...), wobei jedes Orbital maximal zwei Elektronen mit gegenläufigem Spin aufnimmt.

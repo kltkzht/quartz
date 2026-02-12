@@ -1,0 +1,1 @@
+Kinetische Energie Ekin=1/2mv2 ist die "Bewegungsenergie" eines Körpers – je schneller und schwerer er ist, desto mehr "Schlagkraft" hat er, weil sie aus der Arbeit resultiert, die eine Kraft beim Beschleunigen leistet.

@@ -1,0 +1,1 @@
+Masse m ist eine skalare Trägheitsmaß, unabhängig vom Ort, gemessen in Kilogramm (kg).

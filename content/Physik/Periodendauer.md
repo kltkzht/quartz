@@ -1,0 +1,1 @@
+Periode T: Dauer eines vollständigen Schwingungsvorgangs, T=2πωT=ω2π.

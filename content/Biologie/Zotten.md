@@ -1,0 +1,1 @@
+Ausstülpungen von Gewebeoberflächen im Körper, die die Oberfläche vergrößern, um den Stoffaustausch zu verbessern

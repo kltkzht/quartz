@@ -1,0 +1,1 @@
+ein mathematisches Objekt, das eine Richtung und eine Länge beschreibt, unabhängig vom Ort.

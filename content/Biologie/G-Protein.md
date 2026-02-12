@@ -1,0 +1,1 @@
+sind intrazelluläre „molekulare Schalter“, die Signale von der Zelloberfläche ins Zellinnere weiterleiten, indem sie Guanosintriphosphat (GTP) binden und hydrolysieren (GDP-Austausch)

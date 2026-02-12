@@ -1,0 +1,44 @@
+#flashcards #deck/physik 
+Was ist der Unterschied zwischen gleichförmiger und gleichmäßig beschleunigter geradliniger Bewegung?::**Gleichförmig:** Geschwindigkeit ist konstant, also a=0. Weg-Zeit: s(t)=s0+vt (Gerade). **Gleichmäßig beschleunigt:** Beschleunigung ist konstant (a=konst), Geschwindigkeit ändert sich linear: v(t)=v0+at. Weg-Zeit ist quadratisch: s(t)=s0+v0t+12at2.
+
+Wie löst man die typische „Ballon fällt konstant + Sandsack wird fallen gelassen“-Aufgabe?::Du zerlegst in **zwei Bewegungen** (Ballon und Sack) und verknüpfst über die **gleiche Zeit t**: **Ballon:** gleichförmig nach unten s(t)=s+vBt (mit vB konstant). **Sack:** freier Fall (gleichmäßig beschleunigt) mit Startgeschwindigkeit = Ballon-Geschwindigkeit zum Abwurfzeitpunkt: s(t)=s0+vBt+1/2gt^2. **Schlüsselidee:** Der Sack hat beim Loslassen bereits die **Anfangsgeschwindigkeit des Ballons**
+
+Warum ist beim Fallenlassen aus einem bewegten Ballon die Anfangsgeschwindigkeit des fallenden Körpers nicht 0?::Weil Geschwindigkeit **zustandsabhängig** ist: Beim Loslassen besitzt der Körper die **momentane Geschwindigkeit des Ballons** (Relativgeschwindigkeit zwischen Hand und Körper ist 0, aber zum Boden hin hat beides die Ballon-Geschwindigkeit). Physikalisch: Der Körper „erbt“ den Bewegungszustand (Trägheitsprinzip). Das ist genau die Stelle, an der viele Fehler passieren: Man setzt fälschlich v0=0v_0=0v0​=0.
+
+Wie berechnet man bei konstanter Beschleunigung die Zeit bis von v0v_0v0​ auf vvv beschleunigt wurde, und wie erklärt man’s mündlich sauber?::Du startest mit v(t)=v0+atv(t)=v_0+atv(t)=v0​+at. Daraus t=v−v0at=\frac{v-v_0}{a}t=av−v0​​. Mündlich sauber: **1)** Richtung festlegen (Vorzeichen!), **2)** Modell „konstante Beschleunigung“ nennen, **3)** passende Grundgleichung wählen und nach der gesuchten Größe umstellen. In Protokollen kam „Rennauto / straight line motion“ mit genau solchen Rechenschritten vor.
+
+Was ist „durchschnittliche Geschwindigkeit“, und warum ist „halbe Strecke doppelt so schnell“ eine klassische Falle?::Durchschnittsgeschwindigkeit ist vavg=sgesamttgesamtv_\text{avg}=\frac{s_\text{gesamt}}{t_\text{gesamt}}vavg​=tgesamt​sgesamt​​. Die Falle: Man darf **nicht** einfach die Geschwindigkeiten mitteln. Wenn z.B. die Hälfte der Strecke mit vvv und die andere Hälfte mit 2v2v2v gefahren wird, dann t=s/2v+s/22v=s2v+s4v=3s4vt=\frac{s/2}{v}+\frac{s/2}{2v}=\frac{s}{2v}+\frac{s}{4v}=\frac{3s}{4v}t=vs/2​+2vs/2​=2vs​+4vs​=4v3s​ und damit vavg=s3s/(4v)=43vv_\text{avg}=\frac{s}{3s/(4v)}=\frac{4}{3}vvavg​=3s/(4v)s​=34​v. Genau solche Average-Speed-Fragen wurden erwähnt.
+
+Welche Aussagen musst du bei „Aufprallgeschwindigkeit / Schuss“ unbedingt als Voraussetzung nennen?::Du sagst zuerst die Modellannahmen: **ohne Luftwiderstand**, konstantes ggg, gleiche Start-/Landhöhe falls relevant, keine Energieverluste (z.B. „Rollenergie“ o.Ä.). Dann erst rechnest/argumentierst du. In den Protokollen wurde explizit erwähnt, dass es gut ist, die **Vereinfachungen** zu nennen.
+
+Kann man die Aufprallgeschwindigkeit nur aus Kanonenhöhe und Anfangsgeschwindigkeit bestimmen? Wie?::Ja (unter Luftwiderstand = 0) über **Energieerhaltung** oder Kinematik. Energie: 1/2mv^2=1/2mv0^2+mgh. Alternativ Kinematik: v2=v02+2aΔs.
+
+Beim geraden Wurf nach oben: Sind Anfangs- und Aufprallgeschwindigkeit gleich? Wann?::Betraggleichheit gilt **nur**, wenn **Start- und Landepunkt auf gleicher Höhe** liegen und **keine dissipativen Kräfte** wirken (Luftwiderstand vernachlässigt). Dann ist mechanische Energie erhalten: 1/2mv0^2=1/2mv^2. Richtung ist entgegengesetzt.
+
+Was ist eine harmonische Schwingung, und wie sehen s(t)s(t)s(t), v(t)v(t)v(t), a(t)a(t)a(t) aus?::Harmonische Schwingung: Rückstellkraft proportional zur Auslenkung (F=−ksF=-ksF=−ks), daraus a∝−sa\propto -sa∝−s. Standardform: s(t)=Asin⁡(ωt)s(t)=A\sin(\omega t)s(t)=Asin(ωt) (oder cos). Dann v(t)=s˙=Aωcos⁡(ωt)v(t)=\dot s=A\omega\cos(\omega t)v(t)=s˙=Aωcos(ωt) und a(t)=s¨=−Aω2sin⁡(ωt)=−ω2s(t)a(t)=\ddot s=-A\omega^2\sin(\omega t)=-\omega^2 s(t)a(t)=s¨=−Aω2sin(ωt)=−ω2s(t). Prüfer mögen den Satz: **„Die Beschleunigung ist proportional zur Auslenkung und entgegengesetzt gerichtet.“** Das kam in der mündlichen Physik explizit als „gern gehörter Satz“ vor.
+
+„Loch durch die Erde“-Szenario: Welche Bewegung entsteht idealisiert und warum?::Idealisiert (ohne Luftreibung, Erde homogen) entsteht eine **harmonische Schwingung**: Die Gravitationskraft zeigt immer zum Erdzentrum; auf dem Weg zum Zentrum wird beschleunigt, nach dem Zentrum wirkt die Kraft entgegen der Bewegungsrichtung und bremst – dadurch entsteht ein Hin-und-Her um das Zentrum. Prüfer wollen: **qualitative Erklärung + Einordnung als harmonische Schwingung** (nicht zwingend volle Herleitung). Das wurde so gefragt.
+
+Was ist die Periode eines Fadenpendels, und welche Formel muss man können?::Periode TTT = Zeit für **eine vollständige Schwingung**. Für kleines Auslenkungswinkel (Kleinwinkelnäherung) gilt: T=2πlgT=2\pi\sqrt{\frac{l}{g}}T=2πgl​​. Wichtig mündlich: Bedingungen nennen (**kleine Winkel**, keine Reibung, masseloser Faden, punktförmige Masse). Das war ein direkt abgefragtes Thema.
+
+Wie kann man die Pendel-Periodenformel T=2πl/gT=2\pi\sqrt{l/g}T=2πl/g​ grob herleiten (mündlich, ohne volle Mathematik)?::Du zeigst den Weg: **Kleinwinkelnäherung** sin⁡θ≈θ\sin\theta\approx\thetasinθ≈θ. Drehmoment/Bewegungsgleichung führt auf θ¨+glθ=0\ddot\theta + \frac{g}{l}\theta=0θ¨+lg​θ=0, das ist die Standardform einer harmonischen Schwingung θ¨+ω2θ=0\ddot\theta+\omega^2\theta=0θ¨+ω2θ=0 mit ω=g/l\omega=\sqrt{g/l}ω=g/l​. Dann T=2πω=2πl/gT=\frac{2\pi}{\omega}=2\pi\sqrt{l/g}T=ω2π​=2πl/g​. In Protokollen wurde betont: nicht „perfekte Herleitung“, sondern **Ansatz + richtige Beziehungen** (z.B. ω\omegaω, Sinusform, Ableitungen).
+
+Was ist Winkelgeschwindigkeit ω\omegaω, und wie hängt sie mit Periode und Bahngeschwindigkeit zusammen?::ω\omegaω ist die Änderungsrate des Winkels: ω=dφdt\omega=\frac{d\varphi}{dt}ω=dtdφ​ (Einheit rad/s). Für gleichförmige Kreisbewegung: ω=2πT\omega=\frac{2\pi}{T}ω=T2π​. Bahngeschwindigkeit: v=ωrv=\omega rv=ωr. Das wurde im Pendel-Kontext als Zwischenfrage gestellt („Was beschreibt ω\omegaω?“).
+
+Was ist Zentripetalkraft und wie lautet die Grundbeziehung in der Kreisbewegung?::Zentripetalkraft ist die nach innen gerichtete Kraft, die eine Masse auf Kreisbahn hält. Zentripetalbeschleunigung ac=v2r=ω2ra_c=\frac{v^2}{r}=\omega^2 rac​=rv2​=ω2r. Damit Fc=mac=mv2r=mω2rF_c=m a_c = m\frac{v^2}{r}=m\omega^2 rFc​=mac​=mrv2​=mω2r. In mündlichen Fragen ist wichtig: **Richtung** (zum Zentrum) und dass „Kraft“ nicht extra „neu“ ist, sondern von realen Kräften kommt (z.B. Gravitation, Seilspannung, Lorentzkraft).
+
+ISS / Astronauten: Warum „spürt man keine Schwerkraft“, obwohl Gravitation wirkt?::Weil ISS und Astronauten sich im **freien Fall** um die Erde befinden: Gravitation ist da und liefert genau die **Zentripetalkraft** für die Umlaufbahn. „Schwerelosigkeit“ heißt: **keine Stützkraft/Normalkraft**, nicht „keine Gravitation“. Mündlich überzeugend: Skizze mit Kreisbahn + Kraftpfeil zum Erdzentrum + Aussage „Gravitation = Zentripetalkraft“. Das wurde in der Prüfung genau so abgefragt.
+<!--SR:!2025-12-30,1,210-->
+
+mündlich_eth-a25-sam
+
+Welche Formeln/Beziehungen wurden bei der ISS-Umlaufbahn im Protokoll konkret erwartet?::Genannt wurden insbesondere v=2πrTv=\frac{2\pi r}{T}v=T2πr​ (Bahngeschwindigkeit aus Umlaufzeit) und das Erklären der Zentripetalkraft. Zusätzlich wurde „3. Keplersches Gesetz“ erwähnt: T2∝r3T^2\propto r^3T2∝r3 (für Bahnen um denselben Zentralkörper). In der mündlichen Situation reicht oft: Aussage + kurzer Begründungspfad (Gravitation liefert Zentripetalkraft ⇒ Zusammenhang zwischen TTT und rrr).
+
+mündlich_eth-a25-sam
+
+Wie erkennst du eine „versteckte“ Zentripetalkraft-Frage im Spektrometer (Ionen im Magnetfeld)?::Wenn von Kreisbahn im Magnetfeld die Rede ist, ist meist die **Lorentzkraft** die Zentripetalkraft: FL=qvB (bei v⊥B) und Fc=mv^2/r. Gleichsetzen: qvB=mv^2/r​ ⇒ r=m^v/qB. Daraus kannst du Vergleiche machen: bei gleichem q,B ist r∝mv.
+<!--SR:!2025-12-30,1,226-->
+
+mündlich_eth-a25-sam
+
+Wie vergleichst du bei zwei Ionen (z.B. 4u und 16u) in gleichem Magnetfeld Radius und Geschwindigkeit, ohne dich zu verzetteln?::Starte mit r=mvqBr=\frac{mv}{qB}r=qBmv​. Dann klärst du: Sind qqq und vvv gleich oder ist z.B. die Beschleunigungsspannung gleich (dann folgt 12mv2=qU⇒v∝qUm \tfrac12 m v^2 = qU\Rightarrow v\propto \sqrt{\frac{qU}{m}}21​mv2=qU⇒v∝mqU​​). **Prüfer-Trick:** Erst die **gegebenen Gleichheiten** (gleiches qqq? gleiches UUU? gleiches BBB?) sauber auflisten, dann proportional denken. Wenn q,U,Bq,U,Bq,U,B gleich: v∝1/mv\propto 1/\sqrt{m}v∝1/m​ und damit r=mvqB∝mr=\frac{mv}{qB}\propto \sqrt{m}r=qBmv​∝m​. Genau diese Art Vergleich wurde im Protokoll angedeutet.

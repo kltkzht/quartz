@@ -1,0 +1,3 @@
+Schwerlösliche Salze haben geringe Löslichkeit (< 0,01 mol/L), z. B. durch hohe Gitterenergie oder schwache Hydratation, sind aber nie völlig unlöslich – immer Gleichgewicht mit winzigen Ionenkonzentrationen vorhanden.
+
+Beispiele: AgCl (weißes Precipitat), BaSO₄ (Röntgenkontrast), CaCO₃ (Kalkstein). Zusammenhang: Hohe Ionenladungen (z. B. SO₄²⁻, CO₃²⁻) erhöhen Gitterenergie → geringe Löslichkeit; große, niedrig geladene Ionen (z. B. NO₃⁻) löslicher.

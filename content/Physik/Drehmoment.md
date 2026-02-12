@@ -1,0 +1,1 @@
+Drehmoment M⃗=r⃗×F⃗ misst die Rotationswirkung einer Kraft um eine Achse, vektoriell mit Einheit Newtonmeter (Nm).​

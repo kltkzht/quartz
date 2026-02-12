@@ -1,0 +1,2 @@
+gebundene Ladungen
+Polarisation möglich

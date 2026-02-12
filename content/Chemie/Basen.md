@@ -1,0 +1,1 @@
+eine Base ein Protonenakzeptor ist, der sie aufnimmt

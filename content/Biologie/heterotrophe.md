@@ -1,0 +1,1 @@
+gewinnen organische Nährstoffe durch die Aufnahme anderer Organismen oder ihrer Abfallprodukte

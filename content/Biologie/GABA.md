@@ -1,0 +1,2 @@
+- **Hemmung der Nervenerregung:** GABA bindet an Nervenzellen und macht sie vorübergehend weniger reaktionsfähig, was eine Übererregung verhindert.
+- **Beruhigung und Stressreduktion:** Durch die Hemmung der Nervenaktivität führt GABA zu Entspannung, reduziert Stress und Angstgefühle.

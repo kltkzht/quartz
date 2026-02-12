@@ -1,0 +1,1 @@
+der [[Physik/Druck]]anteil eines einzelnen Gases in einem Gasgemisch, der dem Druck entspricht, den dieses Gas ausüben würde, wenn es allein das gesamte Volumen einnehmen würde

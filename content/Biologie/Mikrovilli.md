@@ -1,0 +1,1 @@
+meist unverzweigte Ausstülpungen der apikalen [[Biologie/Zellmembran]]

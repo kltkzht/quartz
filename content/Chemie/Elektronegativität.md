@@ -1,0 +1,1 @@
+ein Maß dafür, wie stark ein Atom in einer chemischen Bindung die gemeinsamen [[Chemie/Elektron]]en an sich zieht

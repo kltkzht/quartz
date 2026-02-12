@@ -1,0 +1,1 @@
+ein Maß dafür, wie effektiv eine bestimmte Geometrie ein elektrisches Feld aufnehmen kann

@@ -1,0 +1,1 @@
+Allosterisches Zentrum: Regulatorische Bindungsstelle eines Enzyms.

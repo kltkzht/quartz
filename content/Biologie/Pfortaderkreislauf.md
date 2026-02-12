@@ -1,0 +1,1 @@
+![[nicht ETH/Images/Pasted image 20251231203656.png]]

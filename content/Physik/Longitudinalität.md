@@ -1,0 +1,1 @@
+Wellen (Longitudinalwellen), bei denen die Schwingung der Teilchen eines Mediums parallel zur Ausbreitungsrichtung der Welle verläuft, wodurch Druck- und Dichteschwankungen entstehen

@@ -1,0 +1,3 @@
+- Signalübertragung: Leitet sensorische Informationen (Schmerz, Berührung) vom Körper zum Gehirn und motorische Befehle vom Gehirn zu den Muskeln. 
+- Reflexzentrum: Steuert viele Reflexe ([[Biologie/Reflexbogen]]) direkt, ohne dass das Gehirn sofort eingreifen muss. 
+- Koordination: Enthält Schaltkreise für automatisierte Bewegungen wie Gehen.

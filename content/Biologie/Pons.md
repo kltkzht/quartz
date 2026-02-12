@@ -1,0 +1,1 @@
+Verbindung zwischen Großhirn, Kleinhirn und Rückenmark. 

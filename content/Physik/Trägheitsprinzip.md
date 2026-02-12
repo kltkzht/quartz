@@ -1,0 +1,1 @@
+Trägheitsprinzip (1. Newton): Ein Körper behält seinen Bewegungszustand bei, solange keine resultierende Kraft wirkt. 

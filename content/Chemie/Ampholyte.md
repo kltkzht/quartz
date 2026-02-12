@@ -1,0 +1,1 @@
+Ampholyte (amphoter) sind Stoffe, die je nach Partner Säure oder Base sein können (z. B. HCO₃⁻ spendet oder nimmt H⁺). Klassisches Beispiel: Wasser (H₂O als Säure zu NH₃ oder Base zu HCl), ermöglicht Autoprotolyse und Pufferwirkung.

@@ -1,0 +1,1 @@
+Geht direkt ins Rückenmark über und enthält Zentren für Atmung und Kreislauf. 

@@ -1,0 +1,1 @@
+Impuls p⃗=m⋅v⃗ beschreibt den Bewegungszustand als vektorielle Zustandsgröße.

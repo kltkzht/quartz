@@ -1,0 +1,5 @@
+sofort wirksam
+keine Gedächtnisbildung
+erkennt typische Muster
+
+Entzündungsreaktion

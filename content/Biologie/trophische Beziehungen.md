@@ -1,0 +1,1 @@
+Nahrungsketten und Nahrungsnetze beschreiben, wie Energie und Stoffe zwischen Organismen eines Ökosystems weitergegeben werden.

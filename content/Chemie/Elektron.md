@@ -1,0 +1,2 @@
+- eine Wellenfunktion ψ(r, t), die den quantenmechanischen Zustand angibt und deren Betragsquadrat |ψ|² die Wahrscheinlichkeitsdichte für den Fundort des Elektrons darstellt.
+- Kathodenstrahlversuche zeigten abgelenkte Strahlen in Vakuumröhren, die in [[Chemie/Thompson-Modell]] als negativ geladene Teilchen identifizierte, was die Teilbarkeit des Atoms bewies.

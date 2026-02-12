@@ -1,0 +1,3 @@
+Kₗ ist die Gleichgewichtskonstante für schwerlösliche Salze: Für MX(s) ⇌ M⁺ + X⁻ gilt Kₗ = [M⁺][X⁻]; bei Mxny(s) ⇌ m M^{n+} + n Y^{m-} ist Kₗ = [M^{n+}]^m [Y^{m-}]^n (stöchiometrische Exponenten aus der Dissoziationsgleichung).
+
+Kₗ misst die Löslichkeit: Kleines Kₗ (z. B. AgCl: 1,8 × 10^{-10}) → sehr geringe Ionenkonzentration; großes Kₗ → besser löslich. Temperaturabhängig: Meist steigt Kₗ mit T° bei Endotherm-Lösung, sinkt bei Exotherm.

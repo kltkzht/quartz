@@ -1,0 +1,1 @@
+Entgiftungszentrum, erzeugt Wasserstoffperoxid als Nebenprodukt (wird dann durch Katalase entfernt)

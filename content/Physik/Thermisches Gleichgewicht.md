@@ -1,0 +1,1 @@
+Zwei Systeme befinden sich im thermischen Gleichgewicht, wenn bei Kontakt keine Wärmeübertragung mehr stattfindet.

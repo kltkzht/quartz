@@ -1,0 +1,1 @@
+Kraft F⃗ ist eine vektoriell wirkende Größe, die den Bewegungszustand eines Körpers ändert, mit Einheit Newton (N). Gewichtskraft Fg⃗=m⋅g⃗ beschreibt die Anziehungskraft eines Körpers durch die Erde, wobei g≈9,81 m/s2 die Fallbeschleunigung ist.

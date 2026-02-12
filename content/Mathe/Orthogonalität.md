@@ -1,0 +1,1 @@
+𝑎⃗⋅𝑏⃗=0 -> Vektoren stehen zueinander senkrecht

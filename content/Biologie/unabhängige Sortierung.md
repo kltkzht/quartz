@@ -1,0 +1,2 @@
+Die zufällige Anordnung homologer Chromosomenpaare in der Metaphase I der Meiose an der Äquatorebene, wodurch jede Tochterzelle eine einzigartige Kombination väterlicher und mütterlicher Chromosomen erhält.
+​

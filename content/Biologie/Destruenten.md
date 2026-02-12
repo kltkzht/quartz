@@ -1,0 +1,1 @@
+Destruenten sind heterotrophe Organismen, vor allem Bakterien und Pilze, die tote organische Substanz und Ausscheidungsprodukte abbauen und deren Bestandteile in anorganische Verbindungen überführen.

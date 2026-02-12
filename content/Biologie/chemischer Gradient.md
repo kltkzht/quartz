@@ -1,0 +1,1 @@
+das Konzentrationsgefälle eines Stoffes (z.B. Ionen, Moleküle) zwischen zwei Bereichen, wobei Teilchen vom Ort hoher Konzentration zum Ort niedriger Konzentration diffundieren, um Ausgleich zu schaffen

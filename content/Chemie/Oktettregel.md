@@ -1,0 +1,2 @@
+Die Edelgaskonfiguration ist eben die, die das niedrigste Energieniveau hat.
+Energetisch günstig bedeutet, dass das Atom ein für sich recht niedriges Energieniveau hat. Andere Zustände benötigen mehr Energie. Daher bleibt es in diesem "niedrigen" Zustand.

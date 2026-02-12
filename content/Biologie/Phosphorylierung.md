@@ -1,0 +1,1 @@
+Direkte Übertragung einer Phosphatgruppe auf ADP.

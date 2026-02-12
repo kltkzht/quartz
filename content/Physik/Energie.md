@@ -1,0 +1,5 @@
+[[Physik/kinetische Energie]]
+[[Physik/potentielle Energie]]
+[[Physik/Energie im elektrischen Feld]]
+[[Chemie/Ionisierungsenergie]]
+[[Biologie/Aktivierungsenergie]]

@@ -1,0 +1,1 @@
+Wasser agiert amphoter: Als Säure gibt es H⁺ ab (H₂O ↔ H⁺ + OH⁻), als Base nimmt es auf – resultiert in 2 H₂O ↔ H₃O⁺ + OH⁻ mit Kw = [H₃O⁺][OH⁻] = 10⁻¹⁴ (bei 25 °C).

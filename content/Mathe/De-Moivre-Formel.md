@@ -1,0 +1,1 @@
+$$(r(\cos\varphi+i\sin\varphi))^n = r^n(\cos(n\varphi)+i\sin(n\varphi))$$

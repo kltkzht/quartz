@@ -1,0 +1,1 @@
+Verdauungsorganell, in dem Makromoleküle hydrolysiert werden

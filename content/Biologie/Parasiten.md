@@ -1,0 +1,1 @@
+Parasitismus ist eine Beziehung, bei der ein Organismus auf Kosten eines Wirtes lebt, ohne ihn sofort zu töten.

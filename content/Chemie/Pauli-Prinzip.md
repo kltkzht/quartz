@@ -1,0 +1,1 @@
+Keine zwei Elektronen in einem Atom haben denselben Satz aller vier Quantenzahlen.

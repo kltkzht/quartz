@@ -1,0 +1,3 @@
+Ein bestimmtes Integral existiert, wenn f auf a, b keine Unstetigkeiten oder Unendlichkeiten hat; dann ist der Flächeninhalt endlich.​
+Ein uneigentliches Integral ist ein Integral mit unendlichen Integrationsgrenzen oder mit einer Stelle, an der f(x) unendlich wird.​
+Ein uneigentliches Integral heißt konvergent, wenn der zugehörige Grenzwert existiert und endlich ist; andernfalls heißt es divergent

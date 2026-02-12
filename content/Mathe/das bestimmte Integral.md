@@ -1,0 +1,1 @@
+beschreibt die orientierte Fläche zwischen dem Graphen und der x-Achse. Es summiert unendlich viele infinitesimale Rechtecke.

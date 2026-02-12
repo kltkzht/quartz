@@ -1,0 +1,1 @@
+Proteine, die zusätzlich meist verzweigte Heteroglykanreste enthalten

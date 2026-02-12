@@ -1,0 +1,1 @@
+Die Phase beschreibt den Schwingungszustand ([[Physik/Harmonische Schwingungen]]) einer Welle an einem Ort zu einer Zeit.

@@ -1,0 +1,1 @@
+Das Antidiuretische Hormon (ADH), auch Vasopressin genannt, reguliert den Wasserhaushalt und Blutdruck, indem es die Wasserrückresorption in den Nieren stark erhöht (weniger Urin, konzentrierter Urin) und bei hohen Konzentrationen die Blutgefäße verengt, was den Blutdruck steigert

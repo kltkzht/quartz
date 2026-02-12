@@ -1,0 +1,1 @@
+dient der Einlagerung von Substanzen, dem Abbau von Abfallprodukten, der Hydrolyse von Maktromoleküle, die Vergrößerung der Vakuole dient Wachstum

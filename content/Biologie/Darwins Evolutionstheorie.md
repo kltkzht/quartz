@@ -1,0 +1,5 @@
+- Variation innerhalb einer Population - Individuen unterscheiden sich zufällig voneinander.
+- Überproduktion von Nachkommen - Mehr Nachkommen entstehen, als überleben können.
+- Konkurrenz um Ressourcen - Nahrung, Raum und Partner sind begrenzt.
+- Natürliche Selektion - Individuen mit vorteilhaften Merkmalen überleben und pflanzen sich häufiger fort.
+- Populationsänderung über Generationen - Die Häufigkeit bestimmter Merkmale nimmt zu oder ab.

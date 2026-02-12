@@ -1,0 +1,1 @@
+die lebensnotwendige organische Stoffe (wie Zucker) selbst aus anorganischen Stoffen (wie Wasser und CO2) herstellen können, indem sie Energie aus Licht (Photosynthese) oder chemischen Reaktionen (Chemosynthese) nutzen

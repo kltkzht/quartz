@@ -1,0 +1,1 @@
+In gesättigter Lösung: NaCl(s) ⇌ Na⁺(aq) + Cl⁻(aq) – Löse- und Fällungsrate gleich, makroskopisch konstante Konzentration. Mikroskopisch lösen sich ständig Kristallteilchen, kristallisieren aber ebenso aus; [[Le Chatelier Prinzip]] hält Gleichgewicht bei Störung.

@@ -1,0 +1,1 @@
+Molekül, das die Enzymaktivität herabsetzt.

@@ -1,0 +1,1 @@
+∫u′·v = u·v − ∫u·v′ - Wenn ein Produkt aus einer gut ableitbaren und einer gut integrierbaren Funktion vorliegt.

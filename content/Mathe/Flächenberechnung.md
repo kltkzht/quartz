@@ -1,0 +1,1 @@
+![[Images/cross product area.png]]

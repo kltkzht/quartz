@@ -1,0 +1,1 @@
+ist eine Stelle, an der sich die Krümmung der Funktion ändert.

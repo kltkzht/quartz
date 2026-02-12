@@ -1,0 +1,1 @@
+ liegt dort, wo die erste Ableitung null ist und das Vorzeichen wechselt. Die Funktion steigt vorher und fällt nachher – oder umgekehrt.

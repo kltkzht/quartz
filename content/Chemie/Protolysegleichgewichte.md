@@ -1,0 +1,1 @@
+Protolysegleichgewichte sind dynamisch: Vor- und Rückreaktion laufen gleich schnell (HA + H₂O ⇌ H₃O⁺ + A⁻). Das Massenwirkungsgesetz (qualitativ: Gleichgewichtskonstante K = [Produkte]/[Reaktanten]) bestimmt die Lage; Konzentrationsänderung verschiebt es nach Le Chatelier (z. B. Säure verdünnen → mehr Dissoziation).

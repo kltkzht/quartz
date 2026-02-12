@@ -1,0 +1,1 @@
+F⃗=m⋅a⃗, die Beschleunigung ist proportional zur Kraft.

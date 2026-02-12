@@ -1,0 +1,3 @@
+Anode: Oxidation
+    
+Kathode: Reduktion

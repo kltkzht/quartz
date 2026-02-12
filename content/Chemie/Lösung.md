@@ -1,0 +1,1 @@
+Lösen ist der Zerfall eines festen Ionengitters (z. B. NaCl(s)) in freie Ionen (Na⁺(aq) + Cl⁻(aq)), begleitet von Hydratation: Wasser dipolt umgibt und stabilisiert Ionen durch Ion-Dipol-Wechselwirkungen. Konkurrenz: Hohe Gitterenergie (starke Ion-Ion-Anziehung im Kristall) vs. exotherme Hydratationsenergie – löst sich, wenn Hydratation > Gitterenergie überwiegt.

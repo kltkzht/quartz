@@ -1,0 +1,1 @@
+Kompleye, die die Proteinbiosynthese durchführen; frei in Cytosol oder gebunden an den Membranen des rauen ER

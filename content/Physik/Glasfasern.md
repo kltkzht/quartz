@@ -1,0 +1,1 @@
+![[Images/lichtstrahl in lichleiter.png]]

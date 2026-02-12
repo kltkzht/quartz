@@ -1,0 +1,1 @@
+die Region, von der aus dich die zellularen Mikrotubuli bilden, enthält ein Paar Centriole (Transport und Stützung)

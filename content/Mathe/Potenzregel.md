@@ -1,0 +1,1 @@
+ f(x)=xⁿ → f′(x)=n·xⁿ⁻¹ - Weil die Änderungsrate mit der Potenz wächst – höhere Potenzen ändern sich schneller.

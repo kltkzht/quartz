@@ -1,0 +1,1 @@
+Neutralisation ist die Reaktion Säure + Base → Salz + Wasser (z. B. HCl + NaOH → NaCl + H₂O), wobei Protonendonator und -Akzeptor sich neutralisieren. Energetisch exotherm durch starke Ionbindungen im Salz; netto-Ionengleichung qualitativ: H₃O⁺ + OH⁻ → 2 H₂O (Protonenübertragung, unabhängig von Gegenionen).

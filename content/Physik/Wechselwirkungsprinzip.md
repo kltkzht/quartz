@@ -1,0 +1,1 @@
+Kräfte zwischen zwei Körpern sind gleich groß und entgegengesetzt.​​

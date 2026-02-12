@@ -1,0 +1,1 @@
+das spezifische Enzym Cellulase fehlt, das die starken β-1,4-glykosidischen Bindungen zwischen den Glukosemolekülen aufbrechen kann

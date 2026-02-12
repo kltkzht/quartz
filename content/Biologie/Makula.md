@@ -1,0 +1,1 @@
+der Bereich in der Mitte der Netzhaut, der für das schärfste Sehen zuständig ist und durch einen gelblichen Farbstoff ([[Lutein]]) geschützt wird

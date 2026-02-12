@@ -1,0 +1,1 @@
+Gleichgewichtsposition, um die der Körper schwingt, wo die Nettokraft null ist.

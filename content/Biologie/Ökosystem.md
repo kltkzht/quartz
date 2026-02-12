@@ -1,0 +1,1 @@
+Ein Ökosystem ist eine funktionelle Einheit aus Lebensraum und allen darin lebenden Organismen, die über Stoff- und Energieflüsse miteinander verbunden sind.

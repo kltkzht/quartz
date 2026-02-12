@@ -1,0 +1,1 @@
+Zwei Vektoren sind parallel, wenn einer ein skalares Vielfaches des anderen ist. Sie zeigen in dieselbe oder entgegengesetzte Richtung.

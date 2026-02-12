@@ -1,0 +1,1 @@
+Die Zellwände durchziehende Kanäle, die das Cytoplasma benachbarerter Zellen miteinander verbindet

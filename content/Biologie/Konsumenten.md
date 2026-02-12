@@ -1,0 +1,1 @@
+[[Biologie/heterotrophe]] Organismen, die organische Substanz aufnehmen, indem sie andere Organismen oder deren Produkte als Nahrungsquelle nutzen.

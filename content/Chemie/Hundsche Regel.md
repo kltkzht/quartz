@@ -1,0 +1,1 @@
+In entarteten Orbitalen werden Elektronen einzeln mit parallelem Spin aufgefüllt, bevor Paarung erfolgt.

@@ -1,0 +1,1 @@
+Gravitationsfeld: g⃗=−(GM/r2)r^, ein vom Gravitationsgesetz erzeugtes Feld mit Stärke proportional zur Masse M.

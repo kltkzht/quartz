@@ -1,0 +1,1 @@
+Druck p=FA ist Kraft pro Fläche, eine skalare Größe mit Einheit Pascal (Pa). 

@@ -1,0 +1,1 @@
+Menge aller Punkte, die eine bestimmte Bedingung erfüllen.

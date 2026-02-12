@@ -1,0 +1,1 @@
+Potentielle Energie Epot=mgh speichert sich durch Lage, z. B. Höhe: Je höher ein Stein liegt, desto mehr Energie wartet darauf, beim Fallen freizusetzen – sie folgt aus der Arbeit gegen die Gewichtskraft.

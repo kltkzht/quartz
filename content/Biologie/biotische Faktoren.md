@@ -1,0 +1,1 @@
+Biotische Faktoren regulieren, wie Lebewesen miteinander leben.

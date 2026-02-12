@@ -1,0 +1,1 @@
+die X-förmigen Kreuzungspunkte zwischen homologen Chromosomen während der Meiose (Reduktionsteilung), an denen genetisches Material ausgetauscht wird (Crossing-over)

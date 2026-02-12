@@ -1,0 +1,1 @@
+ein Raubtier an der Spitze einer Nahrungskette, das als ausgewachsenes Tier keine natürlichen Feinde hat und somit die höchste trophische Ebene einnimmt

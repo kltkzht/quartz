@@ -1,0 +1,1 @@
+Photosyntheseorganell, wandelt Lichenergie in chemische Energie in Form von Zuckermoleküle

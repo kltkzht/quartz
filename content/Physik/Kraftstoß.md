@@ -1,0 +1,5 @@
+Kraftstoß F⃗⋅Δt kennzeichnet die zeitliche Wirkung einer Kraft als vektorielle Prozessgröße
+
+Ein passiert, wenn zwei Körper kurz und heftig aufeinanderknallen und Kräfte austauschen – das ändert ihren Impuls p⃗=mv⃗, weil der Kraftstoß den Bewegungszustand umkippt, z. B. Billardkugeln prallen ab oder kleben zusammen. Immer gilt der Impulserhaltungssatz: Gesamtimpuls vor = nach dem Stoß, da keine äußeren Kräfte wirken (geschlossenes System) – folgt direkt aus 3.
+
+Bei elastischem Stoß bleibt auch kinetische Energie Ekin=12mv2 erhalten: Energie wandert nur von einem zum anderen, ohne Verlust als Wärme – leichte Kugel gegen schwere Wand kehrt mit gleicher Geschwindigkeit um (v1′=−v1v1′=−v1). Unelastischer (plastischer) Stoß verliert Ekin an Deformation oder Hitze: Beide kleben zusammen und fliegen mit Schwerpunktgeschwindigkeit.

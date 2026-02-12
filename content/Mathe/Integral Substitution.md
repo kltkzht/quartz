@@ -1,0 +1,1 @@
+ Ich ersetze einen komplizierten Ausdruck durch eine neue Variable, um die Struktur zu vereinfachen.

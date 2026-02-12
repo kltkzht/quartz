@@ -1,0 +1,1 @@
+(u·v)′ = u′v + uv′ - Beide Faktoren ändern sich, daher muss ich beide Änderungsanteile berücksichtigen.

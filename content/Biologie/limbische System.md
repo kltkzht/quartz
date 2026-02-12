@@ -1,0 +1,5 @@
+- **Hippocampus**: Wichtig für die Bildung neuer Erinnerungen.
+- **Amygdala** (Mandelkern): Bewertet Emotionen, besonders Angst, und ist an Konditionierung beteiligt.
+- **Gyrus Cinguli**: Spielt eine Rolle bei Emotionen, Lernen und Aufmerksamkeit.
+- Corpora Mamillaria: Beteiligt an Gedächtnisprozessen.
+- Fornix: Verbindet verschiedene Teile des System

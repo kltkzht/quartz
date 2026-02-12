@@ -1,0 +1,1 @@
+Räumliche Trennung von Stoffwechselprozessen.

@@ -1,0 +1,1 @@
+Symbiose ist eine enge Beziehung zwischen zwei Arten, von der beide profitieren.

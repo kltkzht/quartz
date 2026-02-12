@@ -1,0 +1,1 @@
+Crossing-over ist der Austausch von genetischem Material zwischen homologen Chromatiden während der Prophase I der Meiose, bei dem DNA-Stränge brechen und sich rekombinieren, was zu neuen Genkombinationen führt.

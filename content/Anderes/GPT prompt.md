@@ -1,0 +1,3 @@
+Bitte mach eine Analyze von Biologische mündliche Fragen zum Thema "". Auch berücksichtig, was wird in rAP darüber gesagt ( ). Bitte mach einen Plan für wiederholung dieses Themes
+
+Danke! Und jetzt könntest du vorstellen, das ich ein dein Freund bin, die nichts über Mensch weisst. Ich frage, was das Thema Mensch umfasst. Jetzt erinner sich an alle evolutionthemen, die wir besprochen haben. Aber Fokussier auf Grundkonzepte und Wechselwirkungen zwischen verschiedenen, Begriffe und Konzepten, und nicht auf Definitionen. Mach es als ganzes Text (nicht bullet punkten und Abschnitte) mit Absatzen und mach es akademisch, mit Erwähnungen von akademische Begriffen

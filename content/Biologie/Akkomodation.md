@@ -1,0 +1,1 @@
+Fähigkeit des Auges, seine Brechkraft ([[Physik/Brechung]]) durch Veränderung der Linsenform anzupassen, um Objekte in verschiedenen Entfernungen scharf auf der Netzhaut abzubilden

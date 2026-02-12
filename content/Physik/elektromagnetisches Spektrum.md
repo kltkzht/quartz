@@ -1,0 +1,7 @@
+Radiowellen
+Mikrowellen
+Infrarot
+Sichtbares Licht
+Ultraviolett
+Röntgenstrahlung
+Gammastrahlung

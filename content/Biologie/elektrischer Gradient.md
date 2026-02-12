@@ -1,0 +1,1 @@
+die räumliche Änderung des elektrischen Potentials ([[Physik/Spannung]]), also wie stark sich die Spannung über eine Distanz ändert, was als treibende [[Physik/Kraft]] für den Ladungstransport dient

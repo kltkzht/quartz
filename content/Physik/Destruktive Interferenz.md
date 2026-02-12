@@ -1,0 +1,1 @@
+Destruktive Interferenz ist ein Phänomen, bei dem sich Wellen so überlagern, dass sich ihre [[Physik/Amplitude]]n gegenseitig abschwächen oder sogar vollständig auslöschen, weil Wellenberge auf Wellentäler treffen (z.B. bei einer Phasenverschiebung von einer halben Wellenlänge λ/2).

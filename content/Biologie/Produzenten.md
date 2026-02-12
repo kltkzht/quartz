@@ -1,0 +1,1 @@
+[[Biologie/autotrophe]] Organismen, die anorganische Stoffe mithilfe externer Energiequellen, meist Sonnenenergie, in energiereiche organische Verbindungen umwandeln und damit die primäre Biomasse eines Ökosystems aufbauen.

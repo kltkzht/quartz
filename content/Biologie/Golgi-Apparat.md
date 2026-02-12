@@ -1,0 +1,1 @@
+Organell, das in die Synthese, Modofikation, Sortierung und Sekretion von Zellprodukten eingebunden ist

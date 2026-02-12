@@ -1,0 +1,1 @@
+Der **Radienquotient** ist das Verhältnis des Radius eines Kations zum Radius eines Anions

@@ -1,0 +1,3 @@
+Kₐ = [H₃O⁺][A⁻]/[HA] misst qualitative Säurestärke: Hohe Kₐ → starke Säure (viel Dissoziation), niedrige Kₐ → schwach; K_b analog für Basen (K_b = [BH⁺][OH⁻]/[B]). Starke Säure hat kleine K_b ihrer konjugierten Base (und umgekehrt, da Kₐ · K_b = K_w).
+
+Starke Säuren (z. B. HCl) dissoziieren vollständig (vollständige Protolyse: HA → H⁺ + A⁻), schwache (z. B. CH₃COOH) nur teilweise. Starke Säuren haben schwache konjugierte Basen (A⁻ bindet Proton schwach), schwache Säuren starke konjugierte Basen; qualitative Interpretation: Stärke misst Tendenz zur Protonenabgabe, bestimmt Reaktionsrichtung im Gleichgewicht.

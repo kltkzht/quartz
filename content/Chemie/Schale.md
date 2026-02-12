@@ -1,0 +1,1 @@
+Eine Schale (Energieniveau) wird durch die Hauptquantenzahl n definiert und umfasst mehrere [[Chemie/Orbital]]e mit unterschiedlichen Formen
