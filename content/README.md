@@ -8,12 +8,12 @@ So, these notes are merely a starting point and a template. I tried to adapt the
 
 # **Where to start?**
 
-There are many files with definitions, explanations, and illustrations, but I advise you to always start with the canvases/subject-specific general files:
-[[Biologie.canvas]] / [[Biologie]]
-[[Chemie.canvas]] / [[Chemie]]
-[[Physik.canvas]] / [[Physik]]
-[[Mathematik.canvas]] / [[Mathematik]]
-All of the files can be traced to what you can see on the canvas for the respective subject.
+There are many files with definitions, explanations, and illustrations, but I advise you to always start with subject-specific general files:
+- [[Biologie]]
+- [[Chemie]]
+- [[Physik]]
+- [[Mathematik]]
+All of the files can be traced to what you can see on the canvas for the respective subject. Also, I tried adding the typical questions to the general files so that you can immediately see, what to expect.
 # **How is it built?**
 
 The reason why I chose Obsidian over other methods of working with information is that here, I can present information not as a consecutive line, but as interconnected pieces. This is how I tried to construct the notes:
