@@ -9,10 +9,10 @@ So, these notes are merely a starting point and a template. I tried to adapt the
 # **Where to start?**
 
 There are many files with definitions, explanations, and illustrations, but I advise you to always start with subject-specific general files:
-- [[Biologie]]
-- [[Chemie]]
-- [[Physik]]
-- [[Mathematik]]
+- [[Biologie general]]
+- [[Chemie general]]
+- [[Physik general]]
+- [[Mathematik general]]
 All of the files can be traced to what you can see on the canvas for the respective subject. Also, I tried adding the typical questions to the general files so that you can immediately see, what to expect.
 # **How is it built?**
 
